@@ -39,6 +39,7 @@ looked up argparse documentation
 https://docs.python.org/3/library/argparse.html
 ## Time spent solving
 Took about 15 minutes to code a first solution and another 10 minutes to clean it up
+
 Total time: 25 minutes
 ## Output
 ```bash
