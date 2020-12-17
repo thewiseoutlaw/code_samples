@@ -31,3 +31,18 @@ https://projecteuler.net/problem=25
 
 The code is for Solution A
 """
+## Output
+   main ±  python3 problem_25.py -h
+  usage: problem_25.py [-h] digits
+
+  Calulates the first fibonacci index that hits a passed in number of digits
+
+  positional arguments:
+    digits      the number of digits you wish to find a fib index for
+
+  optional arguments:
+  -h, --help  show this help message and exit
+
+  python3 problem_25.py 1000
+  Index of fib:  4782
+  Run in 0:00:00.029102

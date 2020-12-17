@@ -45,7 +45,7 @@ if __name__ == '__main__':
     start = datetime.now()
     peter = DiceCollection(4, 9)
     colin = DiceCollection(6, 6)
-    print(f"{peter.chance_to_win(colin):.7}")
+    print(f"Chance for Peter to win: {peter.chance_to_win(colin):.7}")
     # we will keep the while loop going until we fine the input digit
     delta = datetime.now() - start
     print('Time to run:', delta)

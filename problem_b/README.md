@@ -40,3 +40,6 @@ Attempts to solve https://projecteuler.net/problem=205
     - from here we need to calculate the range of numbers for each
         - Peter 9*1 = 9, 9*4 = 36. 9 -> 36, total possibilities 4 ** 9
         - Colin 6*1 = 6, 6*6 = 36. 6 -> 36, total possibilities 6 ** 6
+## Output
+ Chance for Peter to win: 0.5731441
+ Time to run: 0:00:00.289298
