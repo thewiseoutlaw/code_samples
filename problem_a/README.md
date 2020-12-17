@@ -30,4 +30,3 @@ We can use the digits given to set up a dictionary, and then use the python cach
 It is possible there is a more mathimatical way to figure out the solution. I could probably graph the points given to see the curve, then figure out where something with 1000 intersects with the curve
 
 The code is for Solution A
-"""
