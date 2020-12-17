@@ -71,7 +71,8 @@ https://docs.python.org/3/library/fractions.html
 
 ## Time Spent on Problem
 It took about an hour to figure out the probabilities
-After that, I took another 45 minutes to code the solution and clean it up
+After that, I took another 45 minutes to code the solution and clean it up.
+
 1 hour and 45 minutes
 ## Output
  Chance for Peter to win: 0.5731441
