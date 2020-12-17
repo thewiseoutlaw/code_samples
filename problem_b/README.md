@@ -75,5 +75,7 @@ After that, I took another 45 minutes to code the solution and clean it up.
 
 1 hour and 45 minutes
 ## Output
- Chance for Peter to win: 0.5731441
- Time to run: 0:00:00.289298
+```bash
+> python3 problem_205.py
+Chance for Peter to win: 0.5731441
+Time to run: 0:00:00.290475
