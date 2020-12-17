@@ -13,7 +13,10 @@ A well constructed Su Doku puzzle has a unique solution and can be solved by log
 The 6K text file, sudoku.txt (right click and 'Save Link/Target As...'), contains fifty different Su Doku puzzles ranging in difficulty, but all with unique solutions (the first puzzle in the file is the example above).
 
 By solving all fifty puzzles find the sum of the 3-digit numbers found in the top left corner of each solution grid; for example, 483 is the 3-digit number found in the top left corner of the solution grid above.
-
+## To Run
+pip install pipenv
+pipenv install
+python3 problem_96.py p096_sudoku.txt
 ## Why I chose this problem
 
 I am familiar with sudoku puzzles and enjoy solving them, so I decided this would be a good problem to solve.
