@@ -22,8 +22,10 @@ API for solving sudoku - https://rapidapi.com/sosier/api/solve-sudoku/details
 
 ## Time spent on problem
 Around 20 minutes coding
+
 Around 20 minutes looking for an API and reading the docs to see if it would be suitable. 
 
+Total time: 40 minutes
 ## Output:
 ```bash
 > python problem_96.py -h
