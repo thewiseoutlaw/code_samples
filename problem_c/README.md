@@ -57,8 +57,6 @@ Difficulty: SOLVED
 | 1 6 3 | 7 9 2 | 8 4 5 |
 | 5 4 7 | 3 1 8 | 9 2 6 |
 +-------+-------+-------+
-```
-
 The sum of the all puzzles top 3 digits: 24702
 Run in 0:00:00.506262
 ```
